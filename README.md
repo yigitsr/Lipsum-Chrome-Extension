@@ -1,5 +1,5 @@
 # Lipsum-Chrome-Extension
 
-Chrome web store: asd
+Chrome web store: 
 
 Website: https://lipsumm.netlify.app/
