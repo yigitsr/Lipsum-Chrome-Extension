@@ -1,4 +1,4 @@
-# Lipsum-Chrome-Extension
+# Lipsumm-Chrome-Extension
 
 Chrome web store: https://chromewebstore.google.com/detail/ciogjoacokailalibgdnfiojapfalplh?hl=en
 
